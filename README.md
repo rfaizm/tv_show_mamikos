@@ -2,6 +2,8 @@
 
 A simple Android app that lists TV shows from the [TVMaze API](https://www.tvmaze.com/api), and lets you view details and share a show.
 
+- Demo Project [YouTube Link](https://youtu.be/LPpVMHW4NZ0)
+
 ---
 
 ## Table of Contents
